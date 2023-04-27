@@ -1,0 +1,22 @@
+.App{
+    width: 100vw;
+    height: 100vh;
+}
+.display_flex{
+    display: flex;
+}
+.space_between{
+    justify-content: space-between;
+}
+.flex_align_center{
+    align-items: center;
+}
+.no_bottom_margin{
+    margin-bottom: 0 !important;
+}
+.margin_right{
+    margin-right: 0.6rem;
+}
+.margin_left{
+    margin-left: 0.6rem;
+}
